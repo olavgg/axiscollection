@@ -1,7 +1,7 @@
 axiscollection
 ==============
 
-Apache Axis WSDL to Java for old SOAP/RPC
+Apache Axis WSDL for Java for old SOAP/RPC protocols.
 
 Check out the project, go to its folder and type:
 
